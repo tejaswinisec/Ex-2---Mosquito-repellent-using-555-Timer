@@ -20,8 +20,8 @@ S.No	Components/Software	Specification
 10	Connecting Wires	Virtual Components
 
 **Circuit Diagram**
+<img width="1366" height="768" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/36cf3bc4-fe38-404e-a4e4-75114f322864" />
 
-(Insert Proteus circuit diagram here.)
 
 **Theory**
 
@@ -71,8 +71,8 @@ Adjust the potentiometer and note the corresponding change in output frequency.
 
 **Output**
 	
-	
-(Insert Proteus output diagram here.)
+<img width="1366" height="768" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/ab003cc9-1db8-4ca1-8640-8f511a2d7bf1" />
+
 
 **Result**
 
